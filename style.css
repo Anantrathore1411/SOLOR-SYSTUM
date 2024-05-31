@@ -1,0 +1,53 @@
+body{
+    background-image: url("https://media.istockphoto.com/id/482954331/photo/solar-system.jpg?s=612x612&w=0&k=20&c=kKymU_nZWmPwh3DdCc25xMq77w4CDZ0S9hrrG08NCmg=") ;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    background-size:cover;
+
+    
+    
+        font-family: Arial, sans-serif;
+        line-height: 1.6;
+        margin: 0 auto 0 auto;
+        padding: 0;
+        width: 50%;
+    }
+    header, section, footer {
+        padding: 20px;
+        margin-bottom: 20px;
+    }
+    img {
+        max-width: 50%;
+        height: auto;
+
+    }
+    a {
+        color: #007bff;
+        text-decoration: none;
+    }          
+
+    div{
+        background-color: transparent;
+    }
+    
+    .solor{
+    text-align: center;
+    color: aliceblue;
+    
+    }
+
+   .solorphoto{
+    display: block;
+   margin: 0 auto 0 auto;
+   box-shadow:  rgb(166, 170, 236) 10px 10px 5px;
+
+   }
+   .me{ 
+    text-align: center;
+    color: aliceblue;
+   }
+ 
+   li{
+    color: aliceblue;
+   }
